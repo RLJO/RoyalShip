@@ -17,3 +17,8 @@
 	path = RL-OtherApps/Libtech
 	url = git@github.com:RL-OtherApps/Libtech.git
 	branch = 12.0
+
+[submodule "RL-OtherApps/Jupical_Contributions"]
+	path = RL-OtherApps/Jupical_Contributions
+	url = git@github.com:RL-OtherApps/Jupical_Contributions.git
+	branch = 12.0
