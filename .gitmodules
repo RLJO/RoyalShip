@@ -17,3 +17,8 @@
 	path = OCA/web
 	url = git@github.com:OCA/web.git
 	branch = 12.0
+
+[submodule "White-Code-Repos/passap"]
+	path = White-Code-Repos/passap
+	url = git@github.com:White-Code-Repos/passap.git
+	branch = master
