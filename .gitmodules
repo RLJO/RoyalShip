@@ -12,3 +12,8 @@
 	path = White-Code-Repos/lucky_dolphin_local
 	url = git@github.com:White-Code-Repos/lucky_dolphin_local.git
 	branch = master
+
+[submodule "OCA/web"]
+	path = OCA/web
+	url = git@github.com:OCA/web.git
+	branch = 12.0
