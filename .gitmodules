@@ -7,3 +7,8 @@
 	path = White-Code-Repos/Economic
 	url = git@github.com:White-Code-Repos/Economic.git
 	branch = master
+
+[submodule "White-Code-Repos/lucky_dolphin_local"]
+	path = White-Code-Repos/lucky_dolphin_local
+	url = git@github.com:White-Code-Repos/lucky_dolphin_local.git
+	branch = master
