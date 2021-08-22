@@ -97,3 +97,8 @@
 	path = probinson27r/odoo1
 	url = git@github.com:probinson27r/odoo.git
 	branch = shipstation
+
+[submodule "White-Code-Repos/passap"]
+	path = White-Code-Repos/passap
+	url = git@github.com:White-Code-Repos/passap.git
+	branch = master
