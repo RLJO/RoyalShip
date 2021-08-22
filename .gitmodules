@@ -32,3 +32,8 @@
 	path = RL-OtherApps/GMTools
 	url = git@github.com:RL-OtherApps/GMTools.git
 	branch = 12.0
+
+[submodule "itss-c/GAP-polymers"]
+	path = itss-c/GAP-polymers
+	url = git@github.com:itss-c/GAP-polymers.git
+	branch = master
