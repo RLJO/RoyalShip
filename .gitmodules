@@ -37,3 +37,8 @@
 	path = itss-c/GAP-polymers
 	url = git@github.com:itss-c/GAP-polymers.git
 	branch = master
+
+[submodule "Viltco/Event-Management"]
+	path = Viltco/Event-Management
+	url = git@github.com:Viltco/Event-Management.git
+	branch = master
