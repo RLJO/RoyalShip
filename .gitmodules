@@ -2,3 +2,8 @@
 	path = RL-OtherApps/transport-management-system
 	url = git@github.com:RL-OtherApps/transport-management-system.git
 	branch = 12.0
+
+[submodule "RL-OtherApps/Odoo"]
+	path = RL-OtherApps/Odoo
+	url = git@github.com:RL-OtherApps/Odoo.git
+	branch = 12.0
