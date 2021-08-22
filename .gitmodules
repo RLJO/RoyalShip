@@ -2,3 +2,8 @@
 	path = crusardi/YK
 	url = git@github.com:crusardi/YK.git
 	branch = master
+
+[submodule "White-Code-Repos/Economic"]
+	path = White-Code-Repos/Economic
+	url = git@github.com:White-Code-Repos/Economic.git
+	branch = master
