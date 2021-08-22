@@ -1,0 +1,4 @@
+[submodule "crusardi/YK"]
+	path = crusardi/YK
+	url = git@github.com:crusardi/YK.git
+	branch = master
