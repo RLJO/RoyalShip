@@ -37,3 +37,8 @@
 	path = OCA/operating-unit
 	url = git@github.com:OCA/operating-unit.git
 	branch = 12.0
+
+[submodule "RL-OtherApps/Alshulah-Group"]
+	path = RL-OtherApps/Alshulah-Group
+	url = git@github.com:RL-OtherApps/Alshulah-Group.git
+	branch = 12.0
