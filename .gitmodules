@@ -27,3 +27,8 @@
 	path = probinson27r/odoo
 	url = git@github.com:probinson27r/odoo.git
 	branch = shipstation
+
+[submodule "Barronjj/safar_jjbconseil"]
+	path = Barronjj/safar_jjbconseil
+	url = git@github.com:Barronjj/safar_jjbconseil.git
+	branch = dev_vd
