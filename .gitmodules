@@ -42,3 +42,8 @@
 	path = Viltco/Event-Management
 	url = git@github.com:Viltco/Event-Management.git
 	branch = master
+
+[submodule "RL-OtherApps/Development-Tutorials"]
+	path = RL-OtherApps/Development-Tutorials
+	url = git@github.com:RL-OtherApps/Development-Tutorials.git
+	branch = 12.0
