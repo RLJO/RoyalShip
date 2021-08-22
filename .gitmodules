@@ -22,3 +22,8 @@
 	path = RL-OtherApps/Jupical_Contributions
 	url = git@github.com:RL-OtherApps/Jupical_Contributions.git
 	branch = 12.0
+
+[submodule "RL-OtherApps/Jasperreports_odoo"]
+	path = RL-OtherApps/Jasperreports_odoo
+	url = git@github.com:RL-OtherApps/Jasperreports_odoo.git
+	branch = 12.0
