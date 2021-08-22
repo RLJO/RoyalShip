@@ -32,3 +32,8 @@
 	path = Barronjj/safar_jjbconseil
 	url = git@github.com:Barronjj/safar_jjbconseil.git
 	branch = dev_vd
+
+[submodule "WithPrice/shipstation_shipping"]
+	path = WithPrice/shipstation_shipping
+	url = git@github.com:WithPrice/shipstation_shipping.git
+	branch = master
