@@ -117,3 +117,8 @@
 	path = White-Code-Repos/Economic
 	url = git@github.com:White-Code-Repos/Economic.git
 	branch = economic_development
+
+[submodule "crusardi/YK"]
+	path = crusardi/YK
+	url = git@github.com:crusardi/YK.git
+	branch = master
