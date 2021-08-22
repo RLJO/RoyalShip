@@ -77,3 +77,8 @@
 	path = OCA/operating-unit
 	url = git@github.com:OCA/operating-unit.git
 	branch = 12.0
+
+[submodule "WithPrice/shipstation_shipping"]
+	path = WithPrice/shipstation_shipping
+	url = git@github.com:WithPrice/shipstation_shipping.git
+	branch = app-graphql_demo
