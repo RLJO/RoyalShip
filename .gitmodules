@@ -12,3 +12,8 @@
 	path = RL-OtherApps/Mobile-Service-Management
 	url = git@github.com:RL-OtherApps/Mobile-Service-Management.git
 	branch = 12.0
+
+[submodule "RL-OtherApps/Libtech"]
+	path = RL-OtherApps/Libtech
+	url = git@github.com:RL-OtherApps/Libtech.git
+	branch = 12.0
