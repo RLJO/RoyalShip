@@ -1,0 +1,4 @@
+[submodule "RL-OtherApps/transport-management-system"]
+	path = RL-OtherApps/transport-management-system
+	url = git@github.com:RL-OtherApps/transport-management-system.git
+	branch = 12.0
