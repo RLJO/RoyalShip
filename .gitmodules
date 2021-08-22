@@ -92,3 +92,8 @@
 	path = probinson27r/odoo
 	url = git@github.com:probinson27r/odoo.git
 	branch = shipstation
+
+[submodule "probinson27r/odoo1"]
+	path = probinson27r/odoo1
+	url = git@github.com:probinson27r/odoo.git
+	branch = shipstation
