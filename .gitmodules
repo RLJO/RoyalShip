@@ -27,3 +27,8 @@
 	path = RL-OtherApps/Jasperreports_odoo
 	url = git@github.com:RL-OtherApps/Jasperreports_odoo.git
 	branch = 12.0
+
+[submodule "RL-OtherApps/GMTools"]
+	path = RL-OtherApps/GMTools
+	url = git@github.com:RL-OtherApps/GMTools.git
+	branch = 12.0
