@@ -47,3 +47,8 @@
 	path = RL-OtherApps/Development-Tutorials
 	url = git@github.com:RL-OtherApps/Development-Tutorials.git
 	branch = 12.0
+
+[submodule "itss-c/GAP-polymers1"]
+	path = itss-c/GAP-polymers1
+	url = git@github.com:itss-c/GAP-polymers.git
+	branch = master
