@@ -1,0 +1,49 @@
+[submodule "crusardi/YK"]
+	path = crusardi/YK
+	url = git@github.com:crusardi/YK.git
+	branch = master
+
+[submodule "White-Code-Repos/Economic"]
+	path = White-Code-Repos/Economic
+	url = git@github.com:White-Code-Repos/Economic.git
+	branch = master
+
+[submodule "White-Code-Repos/lucky_dolphin_local"]
+	path = White-Code-Repos/lucky_dolphin_local
+	url = git@github.com:White-Code-Repos/lucky_dolphin_local.git
+	branch = master
+
+[submodule "OCA/web"]
+	path = OCA/web
+	url = git@github.com:OCA/web.git
+	branch = 12.0
+
+[submodule "White-Code-Repos/passap"]
+	path = White-Code-Repos/passap
+	url = git@github.com:White-Code-Repos/passap.git
+	branch = master
+
+[submodule "probinson27r/odoo"]
+	path = probinson27r/odoo
+	url = git@github.com:probinson27r/odoo.git
+	branch = shipstation
+
+[submodule "Barronjj/safar_jjbconseil"]
+	path = Barronjj/safar_jjbconseil
+	url = git@github.com:Barronjj/safar_jjbconseil.git
+	branch = production_jjb
+
+[submodule "OCA/operating-unit"]
+	path = OCA/operating-unit
+	url = git@github.com:OCA/operating-unit.git
+	branch = 12.0
+
+[submodule "RL-OtherApps/Alshulah-Group"]
+	path = RL-OtherApps/Alshulah-Group
+	url = git@github.com:RL-OtherApps/Alshulah-Group.git
+	branch = 12.0
+
+[submodule "RL-OtherApps/Community_Portal"]
+	path = RL-OtherApps/Community_Portal
+	url = git@github.com:RL-OtherApps/Community_Portal.git
+	branch = 12.0
